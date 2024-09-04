@@ -1,0 +1,8 @@
+C:\Users\zoloo\source\repos\odko\odko\bin\Debug\odko.dll
+C:\Users\zoloo\source\repos\odko\odko\bin\Debug\odko.pdb
+C:\Users\zoloo\source\repos\odko\odko\obj\Debug\odko.csproj.AssemblyReference.cache
+C:\Users\zoloo\source\repos\odko\odko\obj\Debug\odko.csproj.CoreCompileInputs.cache
+C:\Users\zoloo\source\repos\odko\odko\obj\Debug\odko.dll
+C:\Users\zoloo\source\repos\odko\odko\obj\Debug\odko.pdb
+C:\Users\zoloo\source\repos\odko\odko\bin\Debug\ECRT1000.dll
+C:\Users\zoloo\source\repos\odko\odko\obj\Debug\odko.csproj.CopyComplete
